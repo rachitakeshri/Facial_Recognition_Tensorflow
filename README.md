@@ -12,6 +12,9 @@ Data set is already divided into training and testing folders.
 
 The same project is accessible on coursera as a guided project.
 
+For running this file in local system, you have to implicitly install livelossplots ( to plot live loss or accuracy of every epoch):https://github.com/stared/livelossplot
+All other libraries used are common: tensorflow,seaborn,cv2(opencv) etc
+
 
 
 
